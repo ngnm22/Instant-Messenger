@@ -1,0 +1,15 @@
+Connected to :127.0.0.1:1234
+A has joined.
+Connected to :127.0.0.1:1234
+B has joined.
+B: hello
+B: Are you here?
+A: hi yes
+A: Bye
+A has left.
+B has left.
+Host/Username mismatch
+Connected to :127.0.0.1:1234
+C has joined.
+C: hello?
+server no longer available 
